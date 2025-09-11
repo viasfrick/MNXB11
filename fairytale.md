@@ -1,2 +1,2 @@
 Once upon a time 
-there was a **beautiful** __princess__
+there was a **beautiful** _princess_
